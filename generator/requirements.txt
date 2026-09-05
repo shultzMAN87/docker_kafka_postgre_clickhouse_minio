@@ -1,0 +1,8 @@
+confluent-kafka
+requests
+# Зависимости Avro-сериализатора и клиента Schema Registry
+fastavro
+attrs
+httpx
+cachetools
+authlib
